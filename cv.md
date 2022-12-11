@@ -1,5 +1,5 @@
 ## Krasnov Sergey
-
+![sergey krasnov](/img/sergey krasnov.jpg)
 ### contacts
 * Telegram: +79195040785
 * Email: krasnoff78@gmail.com
@@ -13,6 +13,7 @@ I am learning Javascript and English. I am developing in this direction. I hope 
 * javascript
 ### code examples
 _HTML_
+
 ```
  
  <div> hello world!<div>
