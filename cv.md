@@ -1,5 +1,5 @@
 ## Krasnov Sergey
-![sergey krasnov](/img/sergey krasnov.jpg)
+
 ### contacts
 * Telegram: +79195040785
 * Email: krasnoff78@gmail.com
