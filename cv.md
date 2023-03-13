@@ -29,7 +29,7 @@ I am a beginner developer. I am learning javascript.
   <p>Перед скриптом...</p>
 
   <script>
-    alert( 'Привет, мир!' );
+    console.log('Hello, World!');
   </script>
 
   <p>...После скрипта.</p>
