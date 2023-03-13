@@ -13,8 +13,8 @@ Junior Frontend Developer
 
 ### Contact information:
 * Phone: +79195040785
-* E-mail: [e-mail](krasnoff78@gmail.com)
-* github: [github](https://github.com/krasnoff78)
+* E-mail: [krasnoff78@gmail.com](krasnoff78@gmail.com)
+* github: [https://github.com/krasnoff78](https://github.com/krasnoff78)
 * discord: krasnoff78#6636
 
 ----
@@ -47,7 +47,7 @@ I am a beginner developer. I am learning javascript.
 
 ### Languages:
 english: 
-* duolingo: [duolingo](https://ru.duolingo.com/profile/englwodoo)
+* duolingo: [https://ru.duolingo.com/profile/englwodoo](https://ru.duolingo.com/profile/englwodoo)
 
 ----
 
