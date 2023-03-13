@@ -1,7 +1,7 @@
 
 # Sergey Krasnov
 
-----
+
 
 ![photo](sergey krasnov.jpg "sergey krasnov")
 
