@@ -1,15 +1,15 @@
 
 # Sergey Krasnov
 
-![photo](/img/mountan.png "Пейзаж с горами")
+![photo](sergey krasnov.jpg "sergey krasnov")
 
 Junior Frontend Developer
 
 ### Contact information:
-Phone: +79195040785
-E-mail: krasnoff78@gmail.com
-github: [https://github.com/krasnoff78]
-discord: krasnoff78#6636
+* Phone: +79195040785
+* E-mail: krasnoff78@gmail.com
+* github: [https://github.com/krasnoff78]
+* discord: krasnoff78#6636
 
 ### Briefly About Myself:
 I am a beginner developer. I am learning javascript.
