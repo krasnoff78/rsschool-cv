@@ -25,7 +25,7 @@ ___
 ___
 
 #### ***Code Example:***
-```
+```javascript
 <script>
     alert( 'Привет, мир!' );
   </script> 
