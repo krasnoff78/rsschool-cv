@@ -6,7 +6,7 @@ ___
 #### ***Contact information:***
 * ___phone:___ +7 919 504 07 85
 * ___E-mail:___ krasnoff78@gmail.com
-* ___Telegram:___ @strictcoding
+* ___Telegram:___ @strictcoder
 
 ___
 
